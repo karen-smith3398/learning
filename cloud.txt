@@ -1,0 +1,12 @@
+{
+	"key":{
+		"web_site":"http://windmill2021.com/",
+		"web_api":["http://45.56.90.67:9090/","http://windmill2021.com/"],
+		"app_api":"https://app.solvetech.xyz/", 
+		"ext_api":["ws://194.233.161.33:5057/"]
+	},
+	"ext_min_ver":3.80,
+	"and_min_ver":2.56,
+	"ios_min_ver":1.8,
+	"win_min_ver":1.3
+}
